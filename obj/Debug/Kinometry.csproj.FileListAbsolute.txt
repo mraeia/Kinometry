@@ -1,0 +1,41 @@
+C:\Users\Raeia\kinometry\master\Kinometry\bin\Debug\Kinometry.exe.config
+C:\Users\Raeia\kinometry\master\Kinometry\bin\Debug\Kinometry.exe
+C:\Users\Raeia\kinometry\master\Kinometry\bin\Debug\Kinometry.pdb
+C:\Users\Raeia\kinometry\master\Kinometry\bin\Debug\AForge.dll
+C:\Users\Raeia\kinometry\master\Kinometry\bin\Debug\AForge.Neuro.dll
+C:\Users\Raeia\kinometry\master\Kinometry\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Raeia\kinometry\master\Kinometry\bin\Debug\AForge.xml
+C:\Users\Raeia\kinometry\master\Kinometry\bin\Debug\AForge.Neuro.xml
+C:\Users\Raeia\kinometry\master\Kinometry\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Raeia\kinometry\master\Kinometry\obj\Debug\Kinometry.csprojResolveAssemblyReference.cache
+C:\Users\Raeia\kinometry\master\Kinometry\obj\Debug\MainWindow.baml
+C:\Users\Raeia\kinometry\master\Kinometry\obj\Debug\MainWindow.g.cs
+C:\Users\Raeia\kinometry\master\Kinometry\obj\Debug\App.g.cs
+C:\Users\Raeia\kinometry\master\Kinometry\obj\Debug\Kinometry_MarkupCompile.cache
+C:\Users\Raeia\kinometry\master\Kinometry\obj\Debug\Kinometry.g.resources
+C:\Users\Raeia\kinometry\master\Kinometry\obj\Debug\Kinometry.Properties.Resources.resources
+C:\Users\Raeia\kinometry\master\Kinometry\obj\Debug\Kinometry.csproj.GenerateResource.Cache
+C:\Users\Raeia\kinometry\master\Kinometry\obj\Debug\Kinometry.exe
+C:\Users\Raeia\kinometry\master\Kinometry\obj\Debug\Kinometry.pdb
+C:\Users\Raeia\Desktop\kinometry\master\Kinometry\bin\Debug\Kinometry.exe.config
+C:\Users\Raeia\Desktop\kinometry\master\Kinometry\obj\Debug\Kinometry.exe
+C:\Users\Raeia\Desktop\kinometry\master\Kinometry\obj\Debug\Kinometry.pdb
+C:\Users\Raeia\Desktop\kinometry\master\Kinometry\bin\Debug\Kinometry.exe
+C:\Users\Raeia\Desktop\kinometry\master\Kinometry\bin\Debug\Kinometry.pdb
+C:\Users\Raeia\Desktop\kinometry\master\Kinometry\bin\Debug\AForge.dll
+C:\Users\Raeia\Desktop\kinometry\master\Kinometry\bin\Debug\AForge.Neuro.dll
+C:\Users\Raeia\Desktop\kinometry\master\Kinometry\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Raeia\Desktop\kinometry\master\Kinometry\bin\Debug\AForge.xml
+C:\Users\Raeia\Desktop\kinometry\master\Kinometry\bin\Debug\AForge.Neuro.xml
+C:\Users\Raeia\Desktop\kinometry\master\Kinometry\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Raeia\Desktop\kinometry\master\Kinometry\obj\Debug\Kinometry.csprojResolveAssemblyReference.cache
+C:\Users\Raeia\Desktop\kinometry\master\Kinometry\obj\Debug\MainWindow.baml
+C:\Users\Raeia\Desktop\kinometry\master\Kinometry\obj\Debug\MainWindow.g.cs
+C:\Users\Raeia\Desktop\kinometry\master\Kinometry\obj\Debug\App.g.cs
+C:\Users\Raeia\Desktop\kinometry\master\Kinometry\obj\Debug\Kinometry_MarkupCompile.cache
+C:\Users\Raeia\Desktop\kinometry\master\Kinometry\obj\Debug\Kinometry.g.resources
+C:\Users\Raeia\Desktop\kinometry\master\Kinometry\obj\Debug\Kinometry.Properties.Resources.resources
+C:\Users\Raeia\Desktop\kinometry\master\Kinometry\obj\Debug\Kinometry.csproj.GenerateResource.Cache
+C:\Users\Raeia\Desktop\University Files\kinometry\master\Kinometry\bin\Debug\Kinometry.exe.config
+C:\Users\Raeia\Desktop\University Files\kinometry\master\Kinometry\obj\Debug\Kinometry.exe
+C:\Users\Raeia\Desktop\University Files\kinometry\master\Kinometry\obj\Debug\Kinometry.pdb
